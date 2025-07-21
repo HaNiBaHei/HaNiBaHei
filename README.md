@@ -10,6 +10,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanibahei&show_icons=true&locale=en&layout=compact" alt="hanibahei" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanibahei&show_icons=true&locale=en" alt="hanibahei" /></p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanibahei)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanibahei&" alt="hanibahei" /></p>
