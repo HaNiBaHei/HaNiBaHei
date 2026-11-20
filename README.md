@@ -8,13 +8,13 @@ I build complete systems for government and commercial clients in Thailand and M
 
 ### Selected work
 
-- **Flood early-warning system** — led all software except hardware: AI models on edge devices that keep running through network and power outages, a NestJS backend, a React admin dashboard and LINE alerts.
-- **EV charging platform** — built on an open-source OCPP server, with payments (Omise, Ampersand Pay) and LINE OA as independent NestJS services; live payments in two countries, now piloting in Malaysia.
+- **Flood early-warning system** — developed all software except hardware from the project lead's brief, from proofs of concept to a system that meets the project specifications: AI models on edge devices that keep running through network and power outages, a NestJS backend, a React admin dashboard and LINE alerts.
+- **EV charging platform** — designed and built on CitrineOS (OCPP), with payments (Omise, Ampersand Pay) and LINE OA as independent NestJS services; completed real payments in Thailand and Malaysia, then extended into a multi-tenant charger-management system for organisations, now piloting in Malaysia.
 - **Camera-based water-level monitoring** — image-based detection on industrial PCs with its dashboard and backend, in production at three government sites.
 
 ### How I work
 
-I own the full SDLC: requirements, system design, implementation, testing, deployment and customer feedback. Since 2026 I work specification-first with AI. I write the spec and domain docs (`CONTEXT.md`, ADRs), AI slices the work into issues and implements them, and I review and test every pull request.
+I own the full SDLC: requirements, system design, implementation, testing, deployment and customer feedback. Since 2026 I work specification-first with AI coding tools (Claude Code, Codex, Antigravity). I write the spec and domain docs (`CONTEXT.md`, ADRs), AI slices the work into issues and implements them, and I review and test every pull request.
 
 ### Tech
 
